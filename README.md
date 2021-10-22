@@ -1,0 +1,1 @@
+Guia de Estilo de código recomendado pela monitoria de IP para códigos em Python.
